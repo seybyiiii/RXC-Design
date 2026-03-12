@@ -2130,6 +2130,9 @@ body .options .option .label .info .sub {
   .contside h1 {
     font-size: 2.5rem !important
   }
+  .snap-section{
+    height: 90vh !important;
+  }
 }
 @media (max-width: 420px) {
   .mobframe {
