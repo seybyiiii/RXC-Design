@@ -1822,7 +1822,7 @@ body .options .option .label .info .sub {
     transform: scale(1.05) !important;
   }
   .logowrapper img {
-    max-width: 450px !important;
+    max-width: 300px !important;
   }
   .colorpalette {
     width: 80px !important;
@@ -1976,7 +1976,7 @@ body .options .option .label .info .sub {
     padding: 10px;
   }
   .imgside {
-    height: 200px;
+    height: 200px!important;
     padding: 0px;
   }
   .logowrapper img {
@@ -2041,9 +2041,6 @@ body .options .option .label .info .sub {
   }
   .logowrapper:hover {
     transform: scale(1.05) !important;
-  }
-  .logowrapper img {
-    max-width: 450px !important;
   }
   .colorpalette {
     width: 70px !important;
