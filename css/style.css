@@ -1975,9 +1975,12 @@ body .options .option .label .info .sub {
   .perpage {
     padding: 10px;
   }
-
   .imgside {
-      height: 290px;
+    height: 200px;
+    padding: 0px;
+  }
+  .logowrapper img {
+    max-width: 200px !important;
   }
   .pagecontent {
     padding: 0px 0px !important;
