@@ -1051,6 +1051,17 @@ body .options .option .label .info .sub {
     min-width: 45px;
     height: 45px;
   }
+  .option.selected .label .icon {
+    min-width: 55px !important;
+    height: 55px !important;
+  }
+  .option.selected .label .icon {
+    min-width: 50px;
+    height: 50px;
+  }
+  .option.selected .label .icon i{
+    zoom: 1.5 !important;
+  }
   .col-xl-9 {
     -ms-flex: 0 0 75%;
     flex: 0 0 100%;
