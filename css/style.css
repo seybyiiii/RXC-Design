@@ -1173,7 +1173,7 @@ body .options .option .label .info .sub {
       height: 30px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
     height: 350px !important;
   }
   .websitebox img {
@@ -1243,7 +1243,7 @@ body .options .option .label .info .sub {
       height: 30px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
     height: 350px !important;
   }
   .swiper-slide {
@@ -1355,7 +1355,7 @@ body .options .option .label .info .sub {
   .contside {
     height: 500px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
     height: 400px !important;
   }
 }
@@ -1824,7 +1824,7 @@ body .options .option .label .info .sub {
       height: 25px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
       height: 350px !important;
        margin: 20px 0px !important;
   }
@@ -1939,7 +1939,7 @@ body .options .option .label .info .sub {
       height: 25px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
       height: 350px !important;
        margin: 10px 0px !important;
   }
@@ -1977,7 +1977,7 @@ body .options .option .label .info .sub {
   .contside h1 {
     font-size: 2.5rem !important
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
     margin: 15px 0px !important;
   }
   .galleryside {
@@ -2077,7 +2077,7 @@ body .options .option .label .info .sub {
   .mobframe:hover .headerright {
     transform: translateX(-10px);
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
       height: 250px !important;
       margin: 10px 0px !important;
   }
@@ -2119,16 +2119,16 @@ body .options .option .label .info .sub {
     max-width: 100% !important;
   }
   .imgside {
-      height: 250px;
+      height: 200px;
   }
   .logowrapper img {
-        max-width: 250px !important;
+        max-width: 200px !important;
   }
   .pagecontent {
     padding: 0px 0px !important;
   }
   .contside h1 {
-    font-size: 2.5rem !important
+    font-size: 2rem !important
   }
   .snap-section{
     height: 90vh !important;
@@ -2220,7 +2220,7 @@ body .options .option .label .info .sub {
   .logowrapper img {
     max-width: 150px !important;
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
       height: 200px !important;
   }
   .galleryside {
@@ -2245,7 +2245,7 @@ body .options .option .label .info .sub {
   .mobframe:hover .headerright {
     transform: translateX(-5px);
   }
-  .swiper, .websitehome {
+  .swiper, .swiper-wrapper, .websitehome {
     height: 180px !important;
     margin: 10px 0px !important;
   }
