@@ -1824,9 +1824,9 @@ body .options .option .label .info .sub {
       height: 25px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
+  .swiper, .websitehome {
       height: 350px !important;
-       margin: 20px 0px !important;
+      margin: 20px 0px !important;
   }
 } /* Mobile Portfolio */
 .mobportfolio {
@@ -1939,9 +1939,9 @@ body .options .option .label .info .sub {
       height: 25px !important;
       margin-bottom: 10px !important;
   }
-  .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
+  .swiper, .websitehome {
       height: 350px !important;
-       margin: 10px 0px !important;
+      margin: 10px 0px !important;
   }
 }
 
@@ -1977,7 +1977,7 @@ body .options .option .label .info .sub {
   .contside h1 {
     font-size: 2.5rem !important
   }
-  .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
+  .swiper, .websitehome {
     margin: 15px 0px !important;
   }
   .galleryside {
@@ -2077,9 +2077,11 @@ body .options .option .label .info .sub {
   .mobframe:hover .headerright {
     transform: translateX(-10px);
   }
+  .swiper, .websitehome {
+      margin: 10px 0px !important;
+  }
   .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
       height: 250px !important;
-      margin: 10px 0px !important;
   }
   .swiper-slide {
      margin-right: 10px !important;
