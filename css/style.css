@@ -2129,10 +2129,10 @@ body .options .option .label .info .sub {
     max-width: 100% !important;
   }
   .imgside {
-      height: 200px;
+      height: 150px;
   }
   .logowrapper img {
-        max-width: 200px !important;
+    max-width: 150px !important;
   }
   .pagecontent {
     padding: 0px 0px !important;
@@ -2182,13 +2182,6 @@ body .options .option .label .info .sub {
   .contside h2 {
     font-size: 1rem !important;
   }
-  .imgside {
-    height: 200px;
-    padding: 0px;
-  }
-  .logowrapper img {
-    max-width: 200px !important;
-  }
   .colorpalette {
     width: 55px !important;
     margin-right: 3px !important;
@@ -2228,10 +2221,10 @@ body .options .option .label .info .sub {
     padding: 0px;
   }
   .logowrapper img {
-    max-width: 150px !important;
+    max-width: 120px !important;
   }
   .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
-      height: 200px !important;
+    height: 200px !important;
   }
   .galleryside {
     padding: 0px 20px !important;
