@@ -2132,7 +2132,7 @@ body .options .option .label .info .sub {
     max-width: 100% !important;
   }
   .imgside {
-      height: 150px;
+      height: 150px !important;
   }
   .logowrapper img {
     max-width: 150px !important;
@@ -2217,11 +2217,11 @@ body .options .option .label .info .sub {
   }
   .contside {
     height: auto !important;
-    padding: 0px 10px;
+    padding: 0px 10px !important;
   }
   .imgside {
-    height: 120px;
-    padding: 0px;
+    height: 120px !important;
+    padding: 0px !important;
   }
   .logowrapper img {
     max-width: 120px !important;
