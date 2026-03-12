@@ -2141,7 +2141,7 @@ body .options .option .label .info .sub {
     padding: 0px 0px !important;
   }
   .contside h1 {
-    font-size: 2rem !important
+    font-size: 1.8rem !important
   }
   .snap-section{
     /* height: 90vh !important; */
@@ -2175,7 +2175,7 @@ body .options .option .label .info .sub {
       max-width: 100% !important;
   }
   .contside h1 {
-    font-size: 1.8rem !important;
+    font-size: 1.5rem !important;
     margin-bottom:8px !important;
   }
   .contside p {
