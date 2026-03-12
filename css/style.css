@@ -2246,6 +2246,8 @@ body .options .option .label .info .sub {
   }
   .swiper, .swiper-wrapper, .swiper-slide, .websitehome {
     height: 180px !important;
+  }
+  .swiper, .websitehome {
     margin: 10px 0px !important;
   }
   .contside p {
