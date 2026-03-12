@@ -47,10 +47,10 @@ $(document).ready(function () {
     });
 
     document.querySelectorAll(".mySwiper").forEach(function(el){
-    new Swiper(el, {
-        slidesPerView: "auto",
-        spaceBetween: 30,
+        new Swiper(el, {
+            slidesPerView: "auto",
+            spaceBetween: 30,
+        });
     });
-});
 
 });
