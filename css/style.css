@@ -2131,7 +2131,7 @@ body .options .option .label .info .sub {
     font-size: 2.5rem !important
   }
   .snap-section{
-    height: 80vh !important;
+    height: 90vh !important;
   }
 }
 @media (max-width: 420px) {
