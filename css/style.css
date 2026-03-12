@@ -1975,7 +1975,7 @@ body .options .option .label .info .sub {
       height: auto !important;
   }
   .contside h1 {
-    font-size: 2.5rem !important
+    font-size: 2.3rem !important
   }
   .swiper, .websitehome {
     margin: 15px 0px !important;
@@ -2018,11 +2018,8 @@ body .options .option .label .info .sub {
   .contside {
     align-content: space-evenly !important;
   }
-  .contside h1 {
-    font-size: 2.5rem !important
-  }
   .contside p {
-    font-size: 13px !important;
+    font-size: 12px !important;
     margin-bottom: 12px !important;
   }
   .contside h2 {
